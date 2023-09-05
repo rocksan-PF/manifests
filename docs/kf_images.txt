@@ -31,8 +31,8 @@ docker.io/vinaychandran/notebook-controller:v1.7.0
 docker.io/vinaychandran/poddefaults-webhook:v1.7.0
 docker.io/vinaychandran/profile-controller
 docker.io/vinaychandran/profile-controller:v1.7.0
-docker.io/kubeflownotebookswg/tensorboard-controller
-docker.io/kubeflownotebookswg/tensorboard-controller:v1.7.0
+docker.io/vinaychandran/tensorboard-controller
+docker.io/vinaychandran/tensorboard-controller:v1.7.0
 docker.io/vinaychandran/tensorboards-web-app:v1.7.0
 docker.io/vinaychandran/volumes-web-app:v1.7.0
 docker.io/metacontrollerio/metacontroller:v2.0.4

@@ -29,7 +29,7 @@ spec:
       containers:
         - command:
             - /manager
-          image: docker.io/kubeflownotebookswg/tensorboard-controller
+          image: docker.io/vinaychandran/tensorboard-controller
           name: manager
           securityContext:
             allowPrivilegeEscalation: false
