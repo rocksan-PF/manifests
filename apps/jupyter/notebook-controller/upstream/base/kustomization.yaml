@@ -3,6 +3,6 @@ kind: Kustomization
 resources:
 - ../default
 images:
-- name: docker.io/kubeflownotebookswg/notebook-controller
-  newName: docker.io/kubeflownotebookswg/notebook-controller
+- name: docker.io/vinaychandran/notebook-controller
+  newName: docker.io/vinaychandran/notebook-controller
   newTag: v1.7.0
